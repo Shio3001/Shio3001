@@ -1,5 +1,5 @@
 ### しおです
-高校3年生です
+高校3年生です  
 2022年度未踏ジュニアで「動画編集の感覚でweb cssアニメーションが作れるアプリケーション **MotionRapid**」の開発をしています  
 [MotionRapid github organization](https://github.com/Motion-Rapid-Service)
 
