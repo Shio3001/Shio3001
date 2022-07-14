@@ -1,4 +1,6 @@
-### Hi there 👋
+### しおです
+2022年度未踏ジュニア　動画編集の感覚でweb cssアニメーションが作れるアプリケーション「MotionRapid」開発
+[https://github.com/Motion-Rapid-Service/MotionRapid](https://github.com/Motion-Rapid-Service)
 
 <!--
 **Shio3001/Shio3001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
