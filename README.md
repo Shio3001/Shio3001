@@ -16,7 +16,7 @@
 [MotionRapid エディタ](https://motion-rapid-service.github.io/MotionRapid/)<br>
 
 ### 資格・実績
-基本情報技術者 午前83%(令和3年度12月午前修了試験利用) 午後93%(令和4年度5月受験)<br>
+基本情報技術者 令和4年度5月受験<br>
 日本情報オリンピック予選Bランク<br>
 
 ### そのほか
