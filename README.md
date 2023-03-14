@@ -13,6 +13,7 @@ N高等学校江坂キャンパス・梅田キャンパス→近畿大情報学�
 ### 未踏ジュニア
 未踏ジュニア2022年度(スーパークリエーター認定)<br>
 2022年度未踏ジュニアで「動画編集の感覚でweb cssアニメーションが作れるアプリケーション **MotionRapid**」の開発をしていました<br>
+2023年未踏会議にて、作品展示＆スーパークリエーターとして改めて表彰していただきました<br>
 
 [未踏ジュニア公式 Motion Rapid プロジェクト](https://jr.mitou.org/projects/2022/motion_rapid)<br>
 [MotionRapid エディタ](https://motion-rapid-service.github.io/MotionRapid/)<br>
