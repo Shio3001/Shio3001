@@ -38,4 +38,5 @@ N高等学校江坂キャンパス・梅田キャンパス→近畿大情報学�
 高校学内で、情報処理や会計知識など、諸知識を蓄積する場所を設立しました<br>
 動画編集・処理に関係することが大好きです。プログラミングを始めるきっかけになったのも動画編集です<br>
 
-<img src="https://pbs.twimg.com/media/FgoERksVsAAIUPV?format=jpg" height="400"> <img src="https://pbs.twimg.com/media/FXIkskHUsAA_0Ms?format=jpg" height="400"> <img src="https://pbs.twimg.com/media/FOwd_G6aMAMZm7j?format=jpg" height="300">
+<img src="https://pbs.twimg.com/media/FgoERksVsAAIUPV?format=jpg" height="400"> 
+<img src="https://pbs.twimg.com/media/FXIkskHUsAA_0Ms?format=jpg" height="400">
