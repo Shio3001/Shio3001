@@ -18,7 +18,7 @@
 タイムラインを活用したプログラムの動作を可視化する学習システムの開発<br>
 
 ### 資格・実績
-2022年 基本情報技術者 令和4年度5月受験<br>
+2022年 基本情報技術者取得<br>
 2021年 日本情報オリンピック予選Bランク<br>
 
 ### 表彰
@@ -32,6 +32,3 @@
 元プログラミング講師(アルバイト職) Pythonなどを教えていました<br>
 高校学内で、情報処理や会計知識など、諸知識を蓄積する場所を設立しました<br>
 動画編集・処理に関係することが大好きです。プログラミングを始めるきっかけになったのも動画編集です<br>
-
-<img src="https://pbs.twimg.com/media/FgoERksVsAAIUPV?format=jpg" height="400"> 
-<img src="https://pbs.twimg.com/media/FXIkskHUsAA_0Ms?format=jpg" height="400">
