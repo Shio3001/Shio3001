@@ -1,4 +1,10 @@
 ## しおです
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=Shio3001)
+
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Shio3001&layout=compact)
+
+
 2004年生まれ<br>
 2020年度  N高等学校江坂キャンパス<br>
 2021年度  N高等学校梅田キャンパス（定員拡充のための移転）<br>
