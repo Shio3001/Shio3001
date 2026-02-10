@@ -5,11 +5,6 @@
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=Shio3001&layout=compact)
 
 
-2004年生まれ<br>
-2020年度  N高等学校江坂キャンパス<br>
-2021年度  N高等学校梅田キャンパス（定員拡充のための移転）<br>
-2023年度~ 大学生<br>
-
 ## 活動
 ### 未踏ジュニア
 未踏ジュニア2022年度(スーパークリエーター認定)<br>
